@@ -8,14 +8,10 @@
   "dependencies": {
     "axios": "^0.19.0",
     "canvas": "^2.5.0",
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
-    "express": "~4.16.0",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "^0.0.1-security",
     "fs-extra": "^8.1.0",
-    "http-errors": "~1.6.2",
-    "morgan": "~1.9.0",
+    "lodash": "^4.17.15",
     "spritejs": "2.27.0"
   }
 }
