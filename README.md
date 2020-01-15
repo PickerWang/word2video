@@ -5,7 +5,7 @@
 ```sh
 yarn install
 ```
-## 调用示例 访问本地服务
+## 调用示例
 ```sh
 node example
 ```
